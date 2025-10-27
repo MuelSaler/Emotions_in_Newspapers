@@ -1,0 +1,8 @@
+war_periods:
+  pre_war_until: 1913
+  war_from: 1914
+  war_until: 1918
+  post_war_from: 1919
+
+hugenberg:
+  change_year: null
